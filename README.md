@@ -16,7 +16,7 @@
   <img align="center" alt="NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="right" alt="Gif" height="125" width="125" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952f2ah23o4s0n3f08faq1t2l4cvityh12cc40ce9kg&ep=v1_gifs_search&rid=200w.gif&ct=g">
+  <img align="right" alt="Gif" height="125" width="125" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 </div>
   
  <br>
